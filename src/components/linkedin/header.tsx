@@ -115,7 +115,6 @@ export default function Header() {
                 <section className="bg-blue-100 rounded-md p-4 w-fit">
                     <div className="flex justify-between items-center">
                         <p className="font-semibold">Open to work</p>
-                        <Pen height={16} />
                     </div>
 
                     <p className="mt-2">

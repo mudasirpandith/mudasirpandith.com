@@ -34,15 +34,15 @@ function LangCard({ lang }: { lang: Langs }) {
 
 const langs = [
     {
-        prof: 'English',
-        lang: 'Professional working proficiency',
+        lang: 'English',
+        prof: 'Professional working proficiency',
     },
     {
-        prof: 'Urdu',
-        lang: 'Limited working proficiency',
+        lang: 'Urdu',
+        prof: 'Limited working proficiency',
     },
     {
-        prof: 'Kashmiri',
-        lang: 'Native or bilingual proficiency',
+        lang: 'Kashmiri',
+        prof: 'Native or bilingual proficiency',
     },
 ] satisfies Langs[];
