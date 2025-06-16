@@ -15,7 +15,7 @@ export default function Header() {
                 />
                 <div className="absolute top-4 left-4">
                     <Image
-                        src="https://media.licdn.com/dms/image/D5616AQFSGs8JL39ovg/profile-displaybackgroundimage-shrink_350_1400/0/1683319219822?e=1726099200&v=beta&t=iw44PG8ifcETApqjlWNZ7Y9f790F12maIQQUKk3ZC_U"
+                        src="/profile_avatar.jpeg"
                         alt=""
                         width={72}
                         height={72}

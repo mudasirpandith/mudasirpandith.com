@@ -15,6 +15,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
+            <meta name="algolia-site-verification" content="6489EC27BA6DD803" />
             <body className={inter.className}>{children}</body>
         </html>
     );
